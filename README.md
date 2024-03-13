@@ -1,7 +1,7 @@
 # Sudoku
 > A sudoku generating and solving algorithm built with ❤ and JavaFX
 
-This is a project build by students as a practical learning for Operating Systems-2. However, to have fun and learn
+This is a project build by me in a practical learning for Operating Systems-2. However, to have fun and learn
 new stuff we added some features and build UI to make stuff more fun and user-friendly.
 
 🔧 IDE: NetBeans <br />
